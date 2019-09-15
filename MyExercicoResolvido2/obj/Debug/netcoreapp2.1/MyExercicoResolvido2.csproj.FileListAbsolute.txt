@@ -1,0 +1,11 @@
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\bin\Debug\netcoreapp2.1\MyExercicoResolvido2.deps.json
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\bin\Debug\netcoreapp2.1\MyExercicoResolvido2.runtimeconfig.json
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\bin\Debug\netcoreapp2.1\MyExercicoResolvido2.runtimeconfig.dev.json
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\bin\Debug\netcoreapp2.1\MyExercicoResolvido2.dll
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\bin\Debug\netcoreapp2.1\MyExercicoResolvido2.pdb
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\obj\Debug\netcoreapp2.1\MyExercicoResolvido2.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\obj\Debug\netcoreapp2.1\MyExercicoResolvido2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\obj\Debug\netcoreapp2.1\MyExercicoResolvido2.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\obj\Debug\netcoreapp2.1\MyExercicoResolvido2.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\obj\Debug\netcoreapp2.1\MyExercicoResolvido2.dll
+C:\Users\gabri\Documents\Projeto C#\Udemy\Capítulo 9\MyExercicoResolvido2\MyExercicoResolvido2\obj\Debug\netcoreapp2.1\MyExercicoResolvido2.pdb
