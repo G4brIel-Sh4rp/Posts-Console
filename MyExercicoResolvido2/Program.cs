@@ -6,10 +6,22 @@ namespace MyExercicoResolvido2
 {
     class Program
     {
+        static List<Post> Posts = new List<Post>();
+        static Post templatePost = new Post();
         static void Main(string[] args)
         {
-            Post p1 = new Post();
-
+            AddPost();
+            AddPost();
+            foreach (Post item in Posts)
+            {
+                Console.WriteLine();
+                Console.WriteLine(item);
+                Console.WriteLine("\nComents: \n");
+                item.ShowComments();
+            }
+        }
+        public static void AddPost()
+        {
             Console.Write("TITLE: ");
             string title = Console.ReadLine();
             Console.WriteLine("Content: ");
@@ -30,7 +42,7 @@ namespace MyExercicoResolvido2
 
             if (boolConfirm)
             {
-                p1 = new Post(title, content);
+                templatePost = new Post(title, content);
             }
 
             if (boolComent)
@@ -41,23 +53,16 @@ namespace MyExercicoResolvido2
                 {
                     Console.Write("Comment #{0}: ",i+1);
                     Comment text = new Comment { Text = Console.ReadLine() };
-                    p1.Comments.Add(text);
+                    templatePost.Comments.Add(text);
                 }
             }
             if (boolLike)
             {
                 Console.Write("How many Likes recived this post: ");
                 int postLikes = int.Parse(Console.ReadLine());
-                p1.Likes = postLikes;
+                templatePost.Likes = postLikes;
             }
-
-           
-
-
-            Console.WriteLine();
-            Console.WriteLine(p1);
-            Console.WriteLine("\nComents: \n");
-            p1.ShowComments();
+            Posts.Add(templatePost);
         }
     }
 }

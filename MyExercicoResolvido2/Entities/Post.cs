@@ -17,6 +17,7 @@ namespace MyExercicoResolvido2.Entities
         public Post(string title) : this()
         {
             Title = title;
+            Moment = DateTime.Now;
         }
         public Post(string title, string content) : this(title)
         {
